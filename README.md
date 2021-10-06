@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Tosin Harold Akingbemisilu @tosmartak
-- 👀 I’m interested in Data Science and Engineering.
-- 🌱 I’m currently learning Data Science and engineering by doing projects... I just love the idea of getting usable insights from lots of data, and creating an environment to get those data. I guess that would be my own contribution towards making the world a better place with data.
-- 💞️ I’m looking to collaborate on Data Science Projects and looking forward to learning a lot from the community
-- 📫 You can reach me here or on [LinkedIn](https://www.linkedin.com/in/tosin-akingbemisilu)
+### 👋 Hi, I’m Tosin Harold Akingbemisilu
+
+- 👀 I am a big data wrangler, gathering and analyzing large sets of structured and unstructured data. I enjoy making sense of messy, unstructured data, from different sources that don't neatly fit into a database.
+- 💞️ I am currently doing a lot of projects to improve my skills and knowledge. I love the idea of growing to be the best at what I love to do.
+
+#### 🌱 Outside of work, I enjoy
+- 😅 hanging out with friends and making new connections
+- 🤸 doing calisthenics - bodyweight training just helps a lot without having to visit the gym too often
+- 📚 reading lot of books
+- ♟️ Playing chess, and currently my new found love of playing the piano.
+
+### 📬Connect with Me📬
+- [LinkedIn](https://www.linkedin.com/in/tosin-akingbemisilu)
 
 <!---
 tosmartak/tosmartak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
