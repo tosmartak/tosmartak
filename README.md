@@ -11,6 +11,7 @@
 
 ### 📬Connect with Me📬
 - [LinkedIn](https://www.linkedin.com/in/tosin-akingbemisilu)
+- [Twitter](https://www.twitter.com/tosmartak)
 
 <!---
 tosmartak/tosmartak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
