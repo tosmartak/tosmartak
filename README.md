@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Tosin Harold Akingbemisilu
 
-- 👀 I am a big data wrangler, gathering and analyzing large sets of structured and unstructured data. I just enjoy the idea of making sense of data from different sources.
-- 💞️ I am currently doing a lot of projects to improve my skills and knowledge, so I welcome any form of collaboration.
+- 👀 I am a big data wrangler, gathering and analyzing large sets of structured and unstructured data.
+- 💞️ I totally love and enjoy the idea of making sense of data from different sources.
 
 #### 🌱 Outside of work, I enjoy:
 - 😅 hanging out with friends and making new connections
