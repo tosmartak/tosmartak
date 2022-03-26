@@ -10,6 +10,7 @@
 - ♟️ Playing chess, and currently my new found love of playing the piano.
 
 ### 📬Connect with Me📬
+- [Website](https://www.tosinharold.com)
 - [LinkedIn](https://www.linkedin.com/in/tosin-akingbemisilu)
 - [Twitter](https://www.twitter.com/tosmartak)
 - [Kaggle](https://www.kaggle.com/tosinhakingbemisilu)
