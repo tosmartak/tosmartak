@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Tosin Harold Akingbemisilu
 
-- 👀 I am a data analyst, gathering and analyzing large sets of structured and sometimes, unstructured data.
+- 👀 I am a data scientist, with a keen interest in gathering, wrangling and analyzing large sets of structured and unstructured data.
 - 💞️ I totally love and enjoy the idea of making sense of data from different sources.
 
 #### 🌱 Outside of work, I enjoy:
