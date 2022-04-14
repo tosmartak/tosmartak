@@ -7,7 +7,7 @@
 - 😅 hanging out with friends and making new connections
 - 🤸 doing calisthenics - bodyweight training just helps a lot without having to visit the gym too often
 - 📚 reading lot of books
-- ♟️ Playing chess, and currently my new found love of playing the piano.
+- ♟️ Playing chess, and currently my new found love of playing the piano 🎹.
 
 ### 📬Connect with Me📬
 - [Website](https://www.tosinharold.com)
