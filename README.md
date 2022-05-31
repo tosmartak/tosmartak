@@ -11,10 +11,11 @@
 
 ### 📬Connect with Me📬
 - [Website](https://www.tosinharold.com)
+- [Medium](https://tosinharold.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/tosin-akingbemisilu)
-- [Twitter](https://www.twitter.com/tosmartak)
-- [Kaggle](https://www.kaggle.com/tosinhakingbemisilu)
 - [DataCamp](https://www.datacamp.com/profile/tosmartak)
+- [Twitter](https://www.twitter.com/tosmartak)
+- [Kaggle](https://www.kaggle.com/tosinhakingbemisilu) 
 
 <!---
 tosmartak/tosmartak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
