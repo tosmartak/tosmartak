@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Tosin Harold Akingbemisilu
 
-- 👀 I am a data scientist, with a keen interest in ML/AI/NN.
-- 💞️ I totally love and enjoy the idea of making sense of data from different sources and looking to collaborate on any machine learning / neural networks projects
+- 👀 I am a data scientist, with a keen interest in Machine Learning / Artificial Intelligence / Neural Networks.
+- 💞️ I totally love and enjoy the idea of making sense of data from different sources and looking to collaborate on any ML/AI/NN projects
 
 #### 🌱 Outside of work, I enjoy:
 - 😅 hanging out with friends and making new connections
