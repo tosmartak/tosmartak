@@ -34,7 +34,9 @@
 
 ### :man_technologist: About Me :
 - 👀 I am a Microsoft certified data scientist, with a keen interest in Machine Learning / Artificial Intelligence / Neural Networks.
-- :man_teacher: I love learning and currently exploring technical content writing
+- :man_teacher: I love learning and currently exploring technical content writing <a href="https://tosinharold.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 - 💞️ I love collaborating on projects and attending DS/ML/AI conferences or events
 - :technologist: I enjoy coding and embracing new challenges
 - :man_mechanic: I have a good understanding of different ML Techniques: Regression, Classification, Clustering, Forecasting, Anomaly Detection, Computer Vision, Recommendation Engine and Natural Language Processing
