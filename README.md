@@ -33,15 +33,16 @@
 </div>
 
 ### :man_technologist: About Me :
-- 👀 I am a data scientist, with a keen interest in Machine Learning / Artificial Intelligence / Neural Networks.
-- :seedling: Exploring Technical Content Writing.
-- 💞️ I love collaborating on DS/ML/AI/NN projects. 
+- 👀 I am a Microsoft certified data scientist, with a keen interest in Machine Learning / Artificial Intelligence / Neural Networks.
+- :man_teacher: I love learning and currently exploring technical content writing
+- 💞️ I love collaborating on projects and attending DS/ML/AI conferences or events
+- :technologist: I enjoy coding and embracing new challenges
+- :man_mechanic: I have a good understanding of different ML Techniques: Regression, Classification, Clustering, Forecasting, Anomaly Detection, Computer Vision, Recommendation Engine and Natural Language Processing
 
 #### 🌱 Outside of work, I enjoy:
 - 😅 hanging out with friends and making new connections
-- 🤸 doing calisthenics - bodyweight training just helps a lot without having to visit the gym too often
 - 📚 reading lot of books
-- ♟️ Playing chess, and currently my new found love of playing the piano 🎹.
+- ♟️ Playing chess
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
