@@ -68,16 +68,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Googlecloud" **alt="Googlecloud" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>  
 </div>
 
----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tosmartak&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosmartak&layout=compact&theme=vision-friendly-dark&langs_count=8&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosmartak&layout=compact&theme=vision-friendly-dark)](https://github.com/tosmartak/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tosmartak&count_private=true&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tosmartak&theme=dark&background=000000" />
+</a>
 
 ---
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
