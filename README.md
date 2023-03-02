@@ -43,6 +43,7 @@
 
 #### 🌱 Outside of work, I enjoy:
 - 😅 hanging out with friends and making new connections
+- :airplane: travelling to immerse myself in diverse cultures and appreciate the natural beauty of different landscapes.
 - 📚 reading lot of books
 - ♟️ Playing chess
 ---
