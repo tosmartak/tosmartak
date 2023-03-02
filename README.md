@@ -45,7 +45,7 @@
 - 😅 hanging out with friends and making new connections
 - :airplane: travelling to immerse myself in diverse cultures and appreciate the natural beauty of different landscapes.
 - 📚 reading lot of books
-- ♟️ Playing chess
+- ♟️ Playing chess or monopoly
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
