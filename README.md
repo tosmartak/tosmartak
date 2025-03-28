@@ -78,6 +78,8 @@
 ---
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=tosmartak&theme=highcontrast)](https://git.io/streak-stats)
 ---
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tosmartak&bg_color=000000&color=ffffff&line=e01600&point=5c5c5c&area=true&hide_border=true)](https://github.com/tosmartak)
+---
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
