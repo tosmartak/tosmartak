@@ -74,11 +74,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosmartak&layout=compact&theme=vision-friendly-dark&langs_count=8&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tosmartak&theme=dark&background=000000" />
-</a>
-
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=tosmartak&theme=highcontrast)](https://git.io/streak-stats)
 ---
 
 <!-- BLOG-POST-LIST:START -->
