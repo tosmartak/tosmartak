@@ -32,6 +32,8 @@
 </h2>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F79300&center=true&vCenter=true&width=1000&lines=Data+Scientist;ML+Engineer;More+than+10+years+Experience)](https://git.io/typing-svg)
+---
 ### :man_technologist: About Me :
 - 👀 I am a Microsoft certified data scientist, with a keen interest in Machine Learning / Artificial Intelligence / Neural Networks.
 - :man_teacher: I love learning and writing technical contents <a href="https://tosinharold.medium.com/">
